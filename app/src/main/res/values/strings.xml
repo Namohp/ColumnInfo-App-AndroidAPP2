@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Column App</string>
+    <string name="head_one">Text Composable</string>
+    <string name="head_2">Image Composable</string>
+    <string name="head_three">Row Composable</string>
+    <string name="head_four">Column Composable</string>
+    <string name="intro_1">Displays text and follows the recommended Material Design guidelines.</string>
+    <string name="intro_2">Creates a composable that lays out and draws a given Painter class object.</string>
+    <string name="intro_3">A layout composable that places its children in a horizontal sequence.</string>
+    <string name="intro_4">A layout composable that places its children in a vertical sequence.</string>
+</resources>
